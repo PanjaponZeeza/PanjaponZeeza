@@ -8,9 +8,6 @@
   <a href="https://line.me/ti/p/j6FbYy7gWA">
     <img src="https://img.shields.io/badge/LINE-blue?style=for-the-badge&logo=line&logoColor=white" alt="LINE Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://www.youtube.com/channel/UCEJnIygcQoqc4emGwsPEcQA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
