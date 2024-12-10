@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://i.imgur.com/UkaqXby.gif" width="300" alt="Header GIF"/>
+  <img src="https://i.imgur.com/UkaqXby.gif" width="600" alt="Header GIF"/>
 </div>
 
 <h2 align="center">Hello world! 🌍👨‍💻</h2>
