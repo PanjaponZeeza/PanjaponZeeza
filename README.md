@@ -4,9 +4,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Header GIF"/>
 </div>
 
-<h2 align="center">Hi there 👋 < devs /> </h2>
+<h2 align="center">Hello world! 🌍👨‍💻</h2>
 <p align="center">
-  My name is <strong>Your Name</strong>. A passionate developer from <strong>Thailand</strong>. My main areas of interest are web and mobile development. Right now, I'm learning Flutter. Aside from this, I also do graphic design. In my spare time, I enjoy playing chess and reading.
+  Third-year student at the Faculty of Science, Maejo University, majoring in Computer Science.
+Passionate about Front-End Development and currently improving skills in HTML, CSS, JavaScript, as well as frameworks like React.js and Vue.js to build functional and user-friendly websites.
+"The best way to predict the future is to create it."
 </p>
 
 <!-- Social Icons -->
@@ -25,30 +27,7 @@
   </a>
 </div>
 
-<!-- Tech Stack -->
-<h3 align="center">Tech Stack</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-</div>
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"/>
-</div>
-
-<!-- GitHub Streak -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak"/>
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <p>with ❤️ from Thailand</p>
-</div>
 <!-- Programming Languages -->
 <h3 align="center">Programming Languages</h3>
 <div align="center">
