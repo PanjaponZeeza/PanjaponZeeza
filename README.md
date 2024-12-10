@@ -49,6 +49,42 @@
 <div align="center">
   <p>with ❤️ from Thailand</p>
 </div>
+<!-- Programming Languages -->
+<h3 align="center">Programming Languages</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+</div>
+
+<!-- Frameworks & Libraries -->
+<h3 align="center">Frameworks & Libraries</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
+  <img src="https://img.shields.io/badge/Vue.js-brightgreen?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+</div>
+
+<!-- Database -->
+<h3 align="center">Database</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</div>
+
+<!-- Design Tools -->
+<h3 align="center">Design Tools</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</div>
+
+<!-- Other Tools & Skills -->
+<h3 align="center">Other Tools & Skills</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Vite-blue?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+</div>
 
 
 
