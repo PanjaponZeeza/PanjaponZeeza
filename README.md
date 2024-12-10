@@ -13,17 +13,14 @@ Passionate about Front-End Development and currently improving skills in HTML, C
 
 <!-- Social Icons -->
 <div align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+   <a href="https://line.me/ti/p/j6FbYy7gWA">
+    <img src="https://img.shields.io/badge/LINE-blue?style=flat-square&logo=line&logoColor=white" alt="LINE Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.youtube.com/channel/your-youtube">
+  <a href="https://www.youtube.com/channel/UCEJnIygcQoqc4emGwsPEcQA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://www.reddit.com/u/your-reddit">
-    <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+  <a href="https://www.facebook.com/profile.php?id=100010483279668">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 
@@ -68,17 +65,4 @@ Passionate about Front-End Development and currently improving skills in HTML, C
 
 
 
-
-**PanjaponZeeza/PanjaponZeeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
