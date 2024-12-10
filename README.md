@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Header GIF"/>
+  <img src="https://pin.it/52CPrn3iB" width="150" alt="Header GIF"/>
 </div>
 
 <h2 align="center">Hello world! 🌍👨‍💻</h2>
