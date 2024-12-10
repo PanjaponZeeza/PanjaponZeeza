@@ -1,7 +1,7 @@
-## Hi there 👋
+
 
 <div align="center">
-  <img src="https://pin.it/52CPrn3iB" width="150" alt="Header GIF"/>
+  <img src="https://imgur.com/a/0n8yt3D" width="150" alt="Header GIF"/>
 </div>
 
 <h2 align="center">Hello world! 🌍👨‍💻</h2>
