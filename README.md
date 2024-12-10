@@ -16,8 +16,8 @@ Passionate about Front-End Development and currently improving skills in HTML, C
    <a href="https://line.me/ti/p/j6FbYy7gWA">
     <img src="https://img.shields.io/badge/LINE-blue?style=flat-square&logo=line&logoColor=white" alt="LINE Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCEJnIygcQoqc4emGwsPEcQA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+   <a href="https://www.youtube.com/channel/UCEJnIygcQoqc4emGwsPEcQA">
+    <img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100010483279668">
     <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge"/>
