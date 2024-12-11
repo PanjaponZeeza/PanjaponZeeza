@@ -6,7 +6,7 @@
 <p align="center">
   Third-year student at the Faculty of Science, Maejo University, majoring in Computer Science.<br>
   Passionate about Front-End Development and currently improving skills in HTML, CSS, JavaScript, as well as frameworks like React.js and Vue.js to build functional and user-friendly websites.<br>
-  "The best way to predict the future is to create it."
+  <em style="color: #8E44AD;">"The best way to predict the future is to create it."</em>
 </p>
 
 <!-- Social Icons -->
@@ -31,8 +31,8 @@
   <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
 </p>
 
-<!-- Frameworks & Libraries -->
-<h3 align="center">Frameworks & Libraries</h3>
+<!-- Frameworks -->
+<h3 align="center">Frameworks</h3>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/></a>
