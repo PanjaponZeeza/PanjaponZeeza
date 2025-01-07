@@ -4,9 +4,9 @@
 
 <h1 align="center">Hello world! 🌍👨‍💻</h1>
 <p align="center">
-  Third-year student at the Faculty of Science, Maejo University, majoring in Computer Science.<br>
-  Passionate about Front-End Development and currently improving skills in HTML, CSS, JavaScript, as well as frameworks like React.js and Vue.js to build functional and user-friendly websites.<br>
-  <em style="color: #8E44AD;">"The best way to predict the future is to create it."</em>
+  นักศึกษาชั้นปีที่ 3 คณะวิทยาศาสตร์ มหาวิทยาลัยแม่โจ้ สาขาวิทยาการคอมพิวเตอร์<br>
+  มีความหลงใหลในงานพัฒนา **Front-End Development** และมุ่งมั่นพัฒนาทักษะใน HTML, CSS, JavaScript รวมถึงเฟรมเวิร์กอย่าง **React.js** และ **Vue.js** เพื่อสร้างเว็บไซต์ที่ใช้งานได้จริงและตอบโจทย์ประสบการณ์ของผู้ใช้งาน<br>
+  <em style="color: #8E44AD;">"วิธีที่ดีที่สุดในการกำหนดอนาคต คือการสร้างมันขึ้นมาด้วยตัวเอง"</em>
 </p>
 
 <h3 align="center">🌐 Portfolio Website</h3>
