@@ -9,6 +9,16 @@
   <em style="color: #8E44AD;">"The best way to predict the future is to create it."</em>
 </p>
 
+<h3 align="center">🌐 Portfolio Website</h3>
+<p align="center">
+  <a href="https://zeeza-web-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <br>
+  เว็บไซต์พอร์ตโฟลิโอส่วนตัว พัฒนาด้วย <strong>React.js</strong>
+</p>
+
+
 <!-- Social Icons -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
